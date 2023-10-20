@@ -1,0 +1,16 @@
+{
+    "name": "andrerosa/projeto1",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Andrerosa\\Projeto1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André de Souza Rosa",
+            "email": "andre@dzaine.net"
+        }
+    ],
+    "require": {}
+}
